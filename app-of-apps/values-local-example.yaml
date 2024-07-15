@@ -55,7 +55,7 @@ helmCharts:
     enabled: true
 
   vault:
-    enabled: false
+    enabled: true
 
   # Microservice helm charts for the dev environment
 
